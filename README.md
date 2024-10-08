@@ -13,14 +13,10 @@ Este proyecto es una práctica de desarrollo en React y CSS Modules para crear u
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+La aplicación consiste en tres tarjetas que muestran contenido de vista previa. Este proyecto está diseñado para poner en práctica los conceptos de React en la construcción de componentes y CSS Modules para estilos locales y modulares, asegurando que cada componente mantenga su estilo separado y encapsulado.
 
 ## Tecnologías 🛠
-<p>
-React: Librería JavaScript para construir interfaces de usuario.
-CSS Modules: Herramienta para definir estilos encapsulados y modulares.
-JavaScript ES6: Sintaxis moderna de JavaScript.
-</p>
+
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
@@ -39,9 +35,9 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 **TU NOMBRE**
 
-- [micorreo@midominio.com](micorreo@midominio.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-- [Porfolio web](https://tu-dominio.com/)
+- [micorreo@midominio.com](cesarbaca.mkt@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/cesar-baca/)
+- [Porfolio web]()
 
 ## Instalación
 
