@@ -1,4 +1,4 @@
-# Título del proyecto
+# 3 Cards preview CSS Modules
 
 ![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
 
