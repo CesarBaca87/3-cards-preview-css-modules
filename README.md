@@ -26,11 +26,12 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 ## Vista previa del proyecto
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
+<p>
+<img src="https://raw.githubusercontent.com/CesarBaca87/3-cards-preview-css-modules/refs/heads/main/design/desktop-design.jpg" alt="captura del proyecto"
+<img src="https://raw.githubusercontent.com/CesarBaca87/3-cards-preview-css-modules/refs/heads/main/design/active-states.jpg" alt="captura del proyecto"
+<img width="400" src="https://raw.githubusercontent.com/CesarBaca87/3-cards-preview-css-modules/refs/heads/main/design/mobile-design.jpg" alt="captura del proyecto"
 
-![Captura del proyecto](https://raw.githubusercontent.com/CesarBaca87/3-cards-preview-css-modules/refs/heads/main/design/desktop-design.jpg)
-![Captura del proyecto](https://raw.githubusercontent.com/CesarBaca87/3-cards-preview-css-modules/refs/heads/main/design/active-states.jpg)
-![Captura del proyecto](https://raw.githubusercontent.com/CesarBaca87/3-cards-preview-css-modules/refs/heads/main/design/mobile-design.jpg)
-
+</p>
 ## Autor ✒️
 
 **TU NOMBRE**
