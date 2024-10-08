@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [URL-de-github-pages-de-este-proyecto](https://three-cards-preview-css-modules-7xu6.onrender.com)
+- [Vista en vivo](https://three-cards-preview-css-modules-7xu6.onrender.com)
 - [URL-de-la-api](URL-de-la-api)
 
 ## Descripción 📑
