@@ -1,4 +1,4 @@
-# 3 Cards preview CSS Modules
+# 3 Cards preview
 
 ![Imagen del proyecto](https://raw.githubusercontent.com/CesarBaca87/3-cards-preview-css-modules/refs/heads/main/design/desktop-preview.jpg)
 
@@ -9,14 +9,18 @@
 
 ## Descripción 📑
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Este proyecto es una práctica de desarrollo en React y CSS Modules para crear una interfaz con tres tarjetas de vista previa, enfocada en la reutilización de componentes y el uso de estilos encapsulados.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
 
 ## Tecnologías 🛠
-
+<p>
+React: Librería JavaScript para construir interfaces de usuario.
+CSS Modules: Herramienta para definir estilos encapsulados y modulares.
+JavaScript ES6: Sintaxis moderna de JavaScript.
+</p>
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
